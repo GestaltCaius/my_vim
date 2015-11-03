@@ -1,13 +1,10 @@
 set number
 set mouse=a
 syntax on
-colorsheme Mustang
+colorscheme Mustang
 set nocompatible
 set ruler
 set smartindent
-inoremap ( ()<left>
-
-
 
 function! ResCur()
     if line("'\"") <= line("$")
