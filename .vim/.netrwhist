@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Volumes/Data/nfs/zfs-student-5/users/2014/yalaouf/Desktop/42/annee_1/ft_ls/srcs'
+let g:netrw_dirhist_2='/Volumes/Data/nfs/zfs-student-5/users/2014/yalaouf/Desktop/42/annee_1/libft/srcs/ft_mem'
+let g:netrw_dirhist_3='/home/yalaouf/.oh-my-zsh'
+let g:netrw_dirhist_4='/home/yalaouf/Desktop/Ruby/Gosu'
+let g:netrw_dirhist_5='/home/yalaouf/Gosu-Examples/space-shooter/engine'
