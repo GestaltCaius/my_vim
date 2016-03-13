@@ -31,3 +31,5 @@ augroup resCur
     autocmd!
     autocmd BufWinEnter * call ResCur()
 augroup END
+
+"Made by Youssof Al Aouf (yalaouf)
