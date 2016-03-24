@@ -17,7 +17,7 @@ set tabstop=4
 " when indenting with '>', use 4 spaces width
 set shiftwidth=4
 " On pressing tab, insert 4 spaces
-set expandtabf
+set expandtab
 set shiftwidth=4
 set encoding=utf-8
 set fileencoding=utf-8
